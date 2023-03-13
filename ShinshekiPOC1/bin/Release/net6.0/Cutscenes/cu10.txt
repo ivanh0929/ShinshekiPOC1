@@ -1,0 +1,43 @@
+Narration,,None,,Ardá and Sho somehow make it to class with time to spare. They take their seats, listening as the students converse amongst each other.,,false
+Narration,,None,,The blue-haired girl that was questioning Abiko takes a seat.,,false
+Narration,,None,,Shortly after their arrival, the Homeroom teacher, Kazuya Tojo, walks in and everyone settles down. After everyone rises to greet him, he announces some news to the class.,,false
+Kazuya,,None,,Alright, so I know you've all heard of the recent news regarding the yakuza group Janome. I just want you all to know that the school is doing everything possible to keep you guys safe.,,false
+Male Student #1,,None,,Is he talking about the recent kidnappings?,,false
+Male Student #2,,None,,I hope nobody in the school supports those scum…,,false
+Female Student #1,,None,,They better not cancel clubs because of them!,,false
+Narration,,None,,Chatter begins to set in upon the students as they begin to fear for their safety. The blue-haired girl seems especially infuriated.,,false
+Kazuya,,None,,QUIET!!!,,false
+Narration,,None,,With a commanding yell, Kazuya silences the class and continues speaking.,,false
+Kazuya,,None,,The police are doing everything they can to try and solve this mess but-,,false
+Narration,,None,,The blue-haired girl interrupts his monologue with a desk slam!,,false
+Blue Haired Girl,,Angry,,BULLSHIT! We all know that the Maruharu police force is being bribed by those bastards!,,false
+Kazuya,,None,,Watch your tone, young lady. Even if they are, there's nothing we can do about that. All we can do is control what we can and protect ourselves.,,false 
+Narration,,None,,Tears of frustration begin to well up in her eyes…,,false
+Blue Haired Girl,,Angry,,Look. You might be too scared to fight back against these assholes, but I'm not! So don't you dare lump me in with you spineless sheep!,,false
+Narration,,None,,The blue-haired girl storms towards the door, to her classmate’s shock.,,false
+Blue Haired Girl,,Angry,,If nobody else is willing to, then I'll pursue the truth by myself!,,false
+Narration,,None,,She slams the door behind her as she leaves.,,false
+Kazuya,,None,,Goddamnit…Use this time to prepare for the lesson while I call security for Velarosa-san.,,false
+Narration,,None,,Kazuya then steps out into the hallway, phone in tow, while the class is left to absorb what just happened.,,false
+Male Student #1,,None,,Dude, what the hell was her problem?,,false
+Male Student #2,,None,,No clue, do you even know who she is?,,false
+Female Student #1,,None,,Apparently, she's been going around “investigating” the disappearances. She's doing nothing but making things worse if you ask me…,,false
+Female Student #1,,None,,She also got into a fight with some guy who looks like one of them! All she does is cause issues.,,false
+Male Student #2,,None,,You think someone she knows got kidnapped?,,false
+Male Student #1,,None,,Probably. I can’t think of another reason why she would want to get involved…,,false
+Male Student #1,,None,,That fake heroism shit is so annoying! It makes all of us look worse!,,false
+Female Student #1,,None,,I know right?! God, I wish she would get kidnapped so that we wouldn't have to hear her nonsense anymore…,,false
+Narration,,None,,Ardà then stands up and walks over to the group, angered by their words.,,false
+Female Student #1,,None,,Huh? What do you want?,,false
+Ardá,,Angry,,YO, pendeja! At least she's trying to do something about Janome instead of sitting on her ass like you shitheads are!,,false
+Narration,,None,,The three students look up in disbelief at what was just said. The girl then grits her teeth, stands up, and looks Ardá in her face.,,false
+Female Student #1,,Angry,,What did you just say to me? If anything, those guys should come to take you and send you back to where you came from!,,false
+Ardà,,Angry,,You're lucky we're in school right now or else I would-,,false
+Narration,,None,,It seems like an altercation is about to break out when the door to the classroom shoots open.,,false
+Aizumi,,None,,Alright, alright! Settle down, class! English teacher Aizumi Kuzakaze is here to-WHOA!,,false
+Narration,,None,,The English teacher Aizumi Kuzakaze stumbles into the class, grabbing everyone's attention. The girls glare at each other one last time before sitting back down.,,true
+Ardá,,Melancholy,,Don’t worry about it. This isn't the first time I've had to deal with that crap…,,false
+Aizumi,,None,,HEY! No talking while I'm teaching!,,false
+Ardá,,None,,Sorry…,,false
+Narration,,None,,Ardà leans back over to Sho and whispers…,,false
+Ardá,,None,,We’ll talk after school~,,false

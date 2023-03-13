@@ -1,0 +1,3 @@
+Narration,,None,,Sho is breathing heavily and on the brink of collapsing. Before he falls over, Baldur steps in and catches him.,,false
+Baldur,,Happy,,Whoa there! Easy! You did well for your first fight. Be proud of your victory and rest. I shall return you to your dormitory.,,false
+Narration,,None,,The two of them then fade into that same purple mist that brought Sho here.,,false

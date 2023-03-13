@@ -1,0 +1,5 @@
+Narration,,None,,Sho steps out of the station and sees a prestigious-looking man holding the door to a black car to pick up Sho and take him to his new school..,,false
+Prestigious Man,,None,,Are you ready to head to Kaiyato-Kan Academy, Nagamura-sama?,,true 
+Prestigious Man,,None,,Very well then, Nagamura-sama.,,false
+Narration,,None,,Sho hands his belongings to the man and he proceeds to put them into the trunk of the vehicle.,,false
+Narration,,None,,The tires screech as they begin to move deeper into the city, making their way through the many twists and turns that reside within Maruharu.,,false

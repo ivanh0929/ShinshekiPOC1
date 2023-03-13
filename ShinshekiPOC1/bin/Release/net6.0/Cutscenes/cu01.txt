@@ -1,0 +1,6 @@
+Narration,,None,,We open to a warehouse off the coast of a river. In it, we see a man draped in shadows watching the news.,,false
+REPORTER,,None,,More work is being done on multi-millionaire and entrepreneur Akira Yagnu’s newest office in MaruHaru.,,false
+REPORTER,,None,,At his recent conference, he discussed his interest in stepping foot into the political landscape but nothing else has been said…,,false
+REPORTER,,None,,In other news, the famous child actress Charlotte DuBois has recently announced her retirement after 8 years of acting. This is seen as a surprise…,,false 
+Narration,,None,,We transition from the TV screen onto a phone screen watching the same thing.,,false
+REPORTER,,None,,...As the young star was slated for many movie and TV positions coming this year. With how abruptly she announced this I wonder how many of the upcoming projects will be delayed.,,false

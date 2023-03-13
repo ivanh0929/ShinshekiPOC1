@@ -1,0 +1,3 @@
+Narration,,None,,Baldur materializes back into Sho’s dorm, with him already knocked out.,,false
+Baldur,,None,,Rest now, young one…,,false
+Narration,,None,,Baldur places Sho onto his bed and teleports away, leaving him to rest.,,false

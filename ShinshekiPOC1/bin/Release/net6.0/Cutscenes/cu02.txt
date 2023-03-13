@@ -1,0 +1,6 @@
+Narration,,None,,We see two girls are on the train gossiping about the news that was just announced.,,false
+Snobby Girl,,None,,Oh man, maybe I should audition for the role in that movie? Do you think I'd get it?,,false
+Classy Girl,,Angry,,In your dreams! Being an actress requires grace and elegance, which are traits you lack.,,false
+Narration,,None,,The 2 girls let out a snobbish laugh as they continue to converse with each other.,,false
+Narration,,None,,Sho Nagamura looks up from his phone and looks out of his window, gazing into the mass of trees and greenery that zoom past him.,,false
+Narration,,None,,As the train zooms forward, he stares out into the clear blue ocean water that surrounds the city of Maruharu, his new home for the next year.,,false

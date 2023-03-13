@@ -1,0 +1,9 @@
+Narration,,None,,As Sho walks to Kaiyato-Kan Academy, he bumps into Ardá. Her soft,warm smile radiates as she speaks to Sho.,,false
+Ardá,,Happy,,Hey Nagamura-san! Good morning!,,true
+Ardá,,None,,So, this is your first real day at Kaiyato-Kan…How do ya feel?,,true
+Narration,,None,,Ardá checks her phone and goes wide-eyed. She looks back at Sho, clearly frantic.,,false
+Ardá,,Surprise,,Man, we’re gonna be late for class!,,false
+Narration,,None,,Ardá’s frantic expression suddenly changes to a smirk as a wave of realization washes over her.,,false
+Ardá,,None,,Let’s race! Whoever loses has to buy lunch for the winner!,,true
+Narration,,None,,Without a second thought, Ardá bolts towards the school.,,false
+Narration,,None,,Sho stuffs the REV into his bag as he lags behind his new classmate’s sprint.,,false

@@ -1,0 +1,19 @@
+Narration,,None,,Sho finds himself in an empty grass plain that stretches infinitely. In the distance, he sees a Roman-like building and walks towards it.,,false
+Narration,,None,,Once he enters the building, Sho meets a young man and woman. Stained glass funnels colored lights into the room.,,false
+Women in Purple,,None,,Ahh, Sho Nagamura. We've been expecting you…,,true
+Lynda,,None,,My name is Lynda, but a name is all it is. Here in this room of reality and fantasy, I am whatever you see or feel me to be.,,false
+Lynda,,None,,I can be anything you like or nothing at all. So long as I fulfill my duty as the Umbran Overseer, your fate will be entirely in your hands.,,false
+Lynda,,None,,The space we inhabit right now is known as the Umbran Field. A space between the mortal and immortal.,,false
+Narration,,None,,The woman stands up from her chair and walks over to her assistant.,,false
+Narration,,None,,Her heels clack and echo throughout the room as she walks over to the young man from before who is reading a magazine about the best places to visit on Earth.,,false
+Lynda,,None,,This is my assistant Baldur. His duty is to guide and accompany you throughout your journey.,,false
+Narration,,None,,Baldur puts his magazine down and greets Sho.,,false
+Baldur,,None,,The path that lays bare is a long and treacherous one…But if you remember to take stock in those around you, then you will surely harness the power of the world!,,false
+Baldur,,None,,But for now, you're nothing more than the humble fool ready to embark on his journey.,,false
+Narration,,None,,The sun in the Umbran Field begins to set.,,false
+Lynda,,None,,It looks as if our time is up.,,false
+Lynda,,None,,Before you exit this realm, I must give you something.,,false
+Narration,,None,,Lynda walks over and hands Sho a small red device.,,false
+Lynda,,None,,This is known as a REVelator. It can bring you back here along with other important things that will soon come to fruition.,,false
+Lynda,,None,,Good luck on your journey, and live without remorse…,,false
+Narration,,None,,Lynda gives a devilish smile to Sho as the room bleeds into a white void and Sho wakes up.,,false

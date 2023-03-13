@@ -1,0 +1,6 @@
+Narration,,None,,Sho and the Prestigious Man stroll up to the school gates where they are greeted by the principal, Kenshiro Ryutani.,,false
+Narration,,None,,Two men from the school step from behind Ryutani and take Sho's belongings to the dormitory area.,,false
+Ryutani,,Happy,,Oh, Nagamura-san! It's been so long since I've seen you. Although I'd love to catch up, I need to discuss something with Barataiga-san.,,false
+Ryutani,,None,,Your student aid should be inside by now ...oh! I almost forgot!,,false
+Narration,,None,,You got your schedule, school ID, school pass, and dorm key.,,false
+Ryutani,,None,,That should be everything, all of the important information should be on your schedule. Now go meet up with Nuñez-san.,,false

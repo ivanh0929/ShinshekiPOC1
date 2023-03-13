@@ -1,0 +1,27 @@
+Narration,,None,,After falling for what feels like an eternity, Sho slams down into the ground face first.,,false
+Narration,,None,,He stands up and assesses his surroundings. An endless orange fog masks the entire world, making it hard to see.,,false
+Narration,,None,,Sho walks around aimlessly until he walks into a wall.,,false
+Narration,,None,,Guiding himself from the wall, he feels something protruding from it; a doorknob! He does this several times over and realizes that he’s in a village!,,false
+Narration,,None,,Creatures move within the shadows of the village as Sho moves deeper into the land.,,false
+Narration,,None,,The beasts stalk Sho unbeknownst to him. One of the beasts then roars and jumps behind him planning to attack.,,false
+Narration,,None,,Sho sees the beast and without thinking, runs off and tries to hide.,,false
+Narration,,None,,Baldur is shown to be traveling a bit behind Sho, watching the situation play out.,,false
+Narration,,None,,After a couple of minutes of running, Sho backs himself into a dead end.,,false
+???,,None,,What's the matter? Do you lack the resolve to ascertain change on thy own?,,true
+Narration,,None,,Energy pulses throughout Sho’s body!,,false
+???,,None,,Heed my call and witness your rebirth!,,false
+Narration,,None,,Sho holds his hand out and another card materializes.,,false
+???,,None,,Witness the mighty strength of the southern winds!,,false
+???,,None,,Call upon my name and be the next to release the unyielding power of…,,false
+Narration,,None,,Sho then swipes the new card, cutting off the mysterious voice!,,false
+Sho,,Determined,,NOTUS!,,false
+Narration,,None,,Sho swipes the newly formed card!,,false
+Narration,,None,,Violent and warm winds willow and blow around him as the 2 compartments grind and slash against each other…,,false
+Narration,,None,,Thunder echoes as a new being forms from behind Sho.,,false
+Narration,,None,,The ethereal mass shapes itself from the purple aura enveloping Sho.,,false
+Narration,,None,,Its shape starts to solidify and the once mist-like being lets out a mighty gust of wind as it finishes transforming!,,false 
+Narration,,None,,Sho has awakened to the mighty power of Notus; the southern wind god!,,false
+Narration,,None,,The deity towers over Sho, ready to combat any opponent that stands in his way.,,false
+Narration,,None,,After watching Sho summon Notus, Baldur finally decides to step in.,,false
+Baldur,,None,,Seems like quite the predicament you're in…,,false
+Baldur,,None,,Don’t fear! I'll be here to guide you. Now focus your energy and attack!,,false

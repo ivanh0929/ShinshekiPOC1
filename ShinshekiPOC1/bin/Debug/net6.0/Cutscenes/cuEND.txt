@@ -1,0 +1,14 @@
+Narration,,None,,Sho wakes up, once again greeted by Lynda.,,false
+Lynda,,None,,Welcome back, most humble fool. It seems we’ve met again earlier than anticipated.,,true
+Lynda,,None,,I met you in this unstable crack in spacetime to give you an extended rest.,,false
+Lynda,,None,,Your journey is yet beginning, and your future is still unwritten.,,false
+Lynda,,None,,You’ve met some new allies, seen some foes you’ll be facing in the future…,,false
+Lynda,,None,,And seen some of what this world has to offer.,,false
+Lynda,,None,,I wonder how you’ll surprise me next time we meet.,,false
+Lynda,,None,,I’ll send you back when the time is ready. It will be as if we never met on this occasion.,,false
+Lynda,,None,,And as for you, the one guiding the fool…,,false
+Lynda,,Playful,,You’ll just have to wait a little bit longer, okay?~,,false
+Lynda,,None,,Until we meet again, my most humble fool…,,false
+Narration,,None,,Lynda gives you a devilish smile as the room bleeds into a white void...,,false
+Narration,,None,,Thanks for playing Demo 1 of Shinsheki!,,false
+Narration,,None,,The credits can be found in Credits.txt. Ending the program…,,false

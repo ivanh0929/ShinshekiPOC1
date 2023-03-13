@@ -1,0 +1,13 @@
+Narration,,None,,Sho and Arda walk throughout the dorm hallways.,,true
+Narration,,None,,Ardà stares at the floor, deep in thought.,,false
+Ardá,,None,,Hey. Do you think she was...right?,,true
+Ardá,,Determined,,I don't know what that girl's deal is, but I wanna try to help her out as much as I can.,,false
+Narration,,None,,Ardà looks at Sho with determination.,,false
+Ardá,,Determined,,I know what it's like to fight by yourself. If it's anything like I’ve experienced, then she's going through hell right now.,,true
+Narration,,None,,Ardá extends her hand out for a handshake and Sho firmly grabs it and shakes it, signifying their partnership.,,false
+Narration,,None,,After shaking Ardá’s hand, Sho feels a wave of energy wash over him and gets the overwhelming urge to go back to his dorm.,,true
+Narration,,None,,Sho then rushes into his dorm and empties his bag on his desk.,,false
+Narration,,None,,The device Lynda gave him lands separate from everything, as well as a purple card with the letters TT on it. The red accents glisten in the light of the sun.,,false
+???,,None,,You seek power to enact change, correct? Then you know what must be done. For to unearth mysteries, one must be bathed in its will…,,false
+Narration,,None,,Sho stares at the card before picking it up and swiping the card!,,false
+Narration,,None,,A powerful force blasts everything around him and he miraculously dissipates into a purple mist.,,false

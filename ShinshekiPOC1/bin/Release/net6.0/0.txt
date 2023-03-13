@@ -1,0 +1,15 @@
+Thursday,,April,,9,,Warehouse,,Morning
+Thursday,,April,,9,,Bullet Train,,Morning
+Thursday,,April,,9,,Train Station,,Morning
+Thursday,,April,,9,,School Gates,,Morning
+Thursday,,April,,9,,Kaiyoto-Kan,,School
+Thursday,,April,,9,,Kaiyoto-Kan Dorms,,Evening
+Thursday,,April,,9,,???,,Sleeping
+Friday,,April,,10,,Kaiyoto-Kan Dorms,,Morning
+Friday,,April,,10,,Kaiyoto-Kan Dorms,,Morning
+Friday,,April,,10,,Classroom, Room 2B,,School
+Friday,,April,,10,,Dorm Hallway,,Afterschool
+Friday,,April,,10,,???,,Afterschool
+Friday,,April,,10,,???,,Afterschool
+Friday,,April,,10,,Sho’s Dorm,,Evening
+Saturday,,April,,11,,???,,Sleeping

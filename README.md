@@ -1,3 +1,3 @@
 # ShinshekiPOC1
  Proof of concept for Shinsheki.
- .NET 7.0 runtime is necessary for the game to run.
+ The .NET Desktop Development runtime is required for the game to run.

@@ -182,7 +182,7 @@ namespace ShinshekiPOC1
         {
             for (int i = 0; i < enemies.Count; i++)
             {
-                if (enemies[i].CurrentHP == 0)
+                if (enemies[i].CurrentHP <= 0)
                 {
                     Console.WriteLine(enemies[i].ToString() + " was defeated!");
                     enemies.Remove(enemies[i]);

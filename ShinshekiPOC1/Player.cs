@@ -99,27 +99,44 @@ namespace ShinshekiPOC1
                                 Console.WriteLine(enemy.ToString());
                             }
                             int choice2 = CV.CVNumberAndZero("Please enter a valid number.");
-                            double calced1;
+                            double calced1 = 0;
                             try
                             {
-                                calced1 = Calculations.FightCommand(this, enemies[choice2]);
+                                if (enemies.Count == 1)
+                                {
+                                    calced1 = Calculations.FightCommand(this, enemies[0]);
+                                }
+                                else
+                                {
+                                    calced1 = Calculations.FightCommand(this, enemies[choice2]);
+                                }
+                                
                             }
                             catch
                             {
-                                calced1 = Calculations.FightCommand(this, enemies[0]);
+                                
                             }
-                            enemies[choice2].TakeDamage((int)calced1);
+
+                            if (enemies.Count == 1)
+                            {
+                                enemies[0].TakeDamage((int)calced1);
+                            }
+                            else
+                            {
+                                enemies[choice2].TakeDamage((int)calced1);
+                            }
+
                             break;
                         case 2: // For Echo, prompt for which skill they want to use
-                            Console.WriteLine("Which skill do you want to use?");
+                            Console.WriteLine("Which skill do you want to use? (Skills are zero-indexed!)");
                             foreach (Skill skill in usuableSkills)
                             {
                                 Console.WriteLine(skill.ToString());
                                 Console.WriteLine();
                             }
-                            int choice3 = CV.CVNumber("Please enter a valid number.");
+                            int choice3 = CV.CVNumberAndZero("Please enter a valid number.");
 
-                            Console.WriteLine("Which enemy do you want to attack?"); // Then prompt who they want to fight and run the proper command
+                            Console.WriteLine("Which enemy do you want to attack? (Enemies are zero-indexed!)"); // Then prompt who they want to fight and run the proper command
                             foreach (Enemy enemy in enemies)
                             {
                                 Console.WriteLine(enemy.ToString());
@@ -127,20 +144,33 @@ namespace ShinshekiPOC1
                             int choice4 = CV.CVNumberAndZero("Please enter a valid number.");
 
                             // Calculate the damage and if the attack hits or not
-                            double calced2;
+                            double calced2  = 0;
                             try
                             {
-                                calced2 = usuableSkills[choice3 - 1].CalculateDMG(this, enemies[choice4]);
+                                if(enemies.Count == 1)
+                                {
+                                    calced2 = usuableSkills[choice3].CalculateDMG(this, enemies[0]);
+                                }
+                                else
+                                {
+                                    calced2 = usuableSkills[choice3].CalculateDMG(this, enemies[choice4]);
+                                }
                             }
                             catch
                             {
-                                calced2 = usuableSkills[0].CalculateDMG(this, enemies[0]);
+                                
                             }
-                            
                             int attackhit = rand.Next(0, 101);
                             if (attackhit <= usuableSkills[choice3].Accuracy)
                             {
-                                enemies[choice4].TakeDamage((int)calced2);
+                                if(enemies.Count == 1)
+                                {
+                                    enemies[0].TakeDamage((int)calced2);
+                                }
+                                else
+                                {
+                                    enemies[choice4].TakeDamage((int)calced2);
+                                }
                             }
                             else
                             {

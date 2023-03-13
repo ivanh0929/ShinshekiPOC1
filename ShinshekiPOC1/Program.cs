@@ -10,24 +10,26 @@ namespace ShinshekiPOC1
     {
         static void Main(string[] args)
         {
-            BattleManager.InitSkills();
-            CutsceneManager.Init();
-            Player Sho = BattleManager.CreatePlayer("Skills/Player.csv");
-            List<Enemy> enemies = new List<Enemy>();
-            enemies.Add(BattleManager.CreateEnemy("Skills/Enemy1.csv"));
-            enemies.Add(BattleManager.CreateEnemy("Skills/Enemy2.csv"));
-
-            Console.WriteLine("Welcome to Shinsheki! Press enter to begin.");
-            Console.ReadLine();
-            Console.Clear();
-            for(int i = 0; i < 12; i++)
+            try
             {
-                CutsceneManager.PlaySpecific(i);
+                BattleManager.InitSkills();
+                CutsceneManager.Init();
+                Player Sho = BattleManager.CreatePlayer("Skills/Player.csv");
+                List<Enemy> enemies = new List<Enemy>();
+                enemies.Add(BattleManager.CreateEnemy("Skills/Enemy1.csv"));
+                enemies.Add(BattleManager.CreateEnemy("Skills/Enemy2.csv"));
+
+                BattleManager.PlayBattle(Sho, enemies);
+                CutsceneManager.PlaySpecific(13);
+                CutsceneManager.PlaySpecific(14);
+                CutsceneManager.PlaySpecific(15);
             }
-            BattleManager.PlayBattle(Sho, enemies);
-            CutsceneManager.PlaySpecific(13);
-            CutsceneManager.PlaySpecific(14);
-            CutsceneManager.PlaySpecific(15);
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+                Console.ReadLine();
+            }
+            
 
         }
     }

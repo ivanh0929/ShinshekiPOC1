@@ -12,7 +12,7 @@ Ardá,,None,,Well, that should be everything! I’m glad I could show you around
 ???,,None,,FOR THE LAST TIME, I DON'T KNOW ANYTHING ABOUT THIS GUY!,,false
 Narration,,None,,Sho peers past Ardá to see an intimidating student with piercings and slick hair being interrogated by a girl with glasses and blue hair.,,false
 Blue Haired Girl,,Angry,,That's such a load of bullshit! Look, Just give me some sort of clue that I can use to track this guy down and I’ll be out of your hair.,,false
-Narration,,None,,Way too many people are being affected by this asshole and I want to put a stop to it.,,false
+Blue Haired Girl,,None,,Way too many people are being affected by this asshole and I want to put a stop to it.,,false
 Narration,,None,,The girl frantically flips through a notebook before landing on a page.,,false
 Blue Haired Girl,,Angry,,Murder, extortion, kidnapping; the list goes on. This guy needs to be stopped-,,false
 Boy with Piercings,,Angry,,Listen up,you annoying bitch!,,false

@@ -18,11 +18,14 @@ namespace ShinshekiPOC1
                 List<Enemy> enemies = new List<Enemy>();
                 enemies.Add(BattleManager.CreateEnemy("Skills/Enemy1.csv"));
                 enemies.Add(BattleManager.CreateEnemy("Skills/Enemy2.csv"));
+                for (int i = 0; i < 12; i++)
+                {
+                    CutsceneManager.PlaySpecific(i);
+                }
 
                 BattleManager.PlayBattle(Sho, enemies);
                 CutsceneManager.PlaySpecific(13);
                 CutsceneManager.PlaySpecific(14);
-                CutsceneManager.PlaySpecific(15);
             }
             catch (Exception ex)
             {

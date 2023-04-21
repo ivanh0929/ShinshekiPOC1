@@ -197,8 +197,5 @@ namespace ShinshekiPOC1
                 return false;
             }
         }
-
-
-
     }
 }

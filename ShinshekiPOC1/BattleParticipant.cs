@@ -107,6 +107,24 @@ namespace ShinshekiPOC1
             }
         }
 
+        protected int currentstr;
+        public int CurrentStrength
+        {
+            get { return currentstr; }
+            set
+            {
+                if (value <= 0)
+                {
+                    Console.WriteLine("Strength stat cannot be lower than 1. Setting it to 1.");
+                    str = 1;
+                }
+                else
+                {
+                    currentstr = value;
+                }
+            }
+        }
+
         protected int mag;
 
         public int Magic
@@ -122,6 +140,25 @@ namespace ShinshekiPOC1
                 else
                 {
                     mag = value;
+                }
+            }
+        }
+
+        protected int currentmag;
+
+        public int CurrentMagic
+        {
+            get { return currentmag; }
+            set
+            {
+                if (value <= 0)
+                {
+                    Console.WriteLine("Magic stat cannot be lower than 1. Setting it to 1.");
+                    currentmag = 1;
+                }
+                else
+                {
+                    currentmag = value;
                 }
             }
         }
@@ -145,6 +182,25 @@ namespace ShinshekiPOC1
             }
         }
 
+        protected int currentluck;
+
+        public int CurrentLuck
+        {
+            get { return currentluck; }
+            set
+            {
+                if (value <= 0)
+                {
+                    Console.WriteLine("Luck stat cannot be lower than 1. Setting it to 1.");
+                    currentluck = 1;
+                }
+                else
+                {
+                    currentluck = value;
+                }
+            }
+        }
+
         protected int agl;
 
         public int Agility
@@ -164,6 +220,25 @@ namespace ShinshekiPOC1
             }
         }
 
+        protected int currentagl;
+
+        public int CurrentAgility
+        {
+            get { return currentagl; }
+            set
+            {
+                if (value <= 0)
+                {
+                    Console.WriteLine("Agility stat cannot be lower than 1. Setting it to 1.");
+                    currentagl = 1;
+                }
+                else
+                {
+                    currentagl = value;
+                }
+            }
+        }
+
         protected int def;
 
         public int Defense
@@ -179,6 +254,25 @@ namespace ShinshekiPOC1
                 else
                 {
                     def = value;
+                }
+            }
+        }
+
+        protected int currentdef;
+
+        public int CurrentDefense
+        {
+            get { return currentdef; }
+            set
+            {
+                if (value <= 0)
+                {
+                    Console.WriteLine("Defense stat cannot be lower than 1. Setting it to 1.");
+                    currentdef = 1;
+                }
+                else
+                {
+                    currentdef = value;
                 }
             }
         }
@@ -247,6 +341,11 @@ namespace ShinshekiPOC1
             this.tempDR = tempDR;
             this.usuableSkills = usuableSkills;
             this.elementAnalysis = elementAnalysis;
+            this.currentagl = agl;
+            this.currentstr = str;
+            this.currentmag = mag;
+            this.currentdef = def;
+            this.currentluck = luck;
         }
         public bool CheckStatus(int TurnsPassed)
         {
@@ -348,6 +447,11 @@ namespace ShinshekiPOC1
                     {
                         Console.WriteLine("Recovered from being stunned!");
                         currentStatus = StatusCond.None;
+                        this.CurrentAgility = this.Agility / 2;
+                        this.CurrentDefense = this.Defense / 2;
+                        this.CurrentLuck = this.Luck / 2;
+                        this.CurrentMagic = this.Magic / 2;
+                        this.CurrentStrength = this.Strength / 2;
                         buffturns = 0;
                     }
                     return false;

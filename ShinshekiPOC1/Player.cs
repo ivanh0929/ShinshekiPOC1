@@ -80,7 +80,7 @@ namespace ShinshekiPOC1
                         case StatusCond.Enrage:
                             Console.WriteLine("Attacked a random enemy with a powered up melee attack!");
                             int randomenemy2 = rand.Next(0, enemies.Count + 1);
-                            double calced2 = Calculations.FightCommand(this, enemies[randomenemy2]) / 2;
+                            double calced2 = Calculations.FightCommand(this, enemies[randomenemy2]) * 1.5;
                             enemies[randomenemy2].TakeDamage((int)calced2);
                             break;
                     }

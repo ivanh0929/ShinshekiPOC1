@@ -60,10 +60,10 @@ namespace ShinshekiPOC1
             switch (this.skillType)
             {
                 case (SkillType.Phys):
-                    Calced = (this.sp * (Math.Sqrt(player.Strength)) / (Math.Sqrt((enemy.Defense * 8) + enemy.Armor)));
+                    Calced = (this.sp * (Math.Sqrt(player.CurrentStrength)) / (Math.Sqrt((enemy.CurrentDefense * 8) + enemy.Armor)));
                     break;
                 case (SkillType.Magic):
-                    Calced = (this.sp + (this.sp * (player.Magic / 30))) / (Math.Sqrt((enemy.Defense * 8) + enemy.Armor));
+                    Calced = (this.sp + (this.sp * (player.CurrentMagic / 30))) / (Math.Sqrt((enemy.CurrentDefense * 8) + enemy.Armor));
                     break;
             }
 
@@ -84,10 +84,10 @@ namespace ShinshekiPOC1
             switch (this.skillType)
             {
                 case (SkillType.Phys):
-                    Calced = (this.sp * (Math.Sqrt(enemy.Strength)) / (Math.Sqrt((player.Defense * 8) + player.Armor)));
+                    Calced = (this.sp * (Math.Sqrt(enemy.CurrentStrength)) / (Math.Sqrt((player.CurrentDefense * 8) + player.Armor)));
                     break;
                 case (SkillType.Magic):
-                    Calced = (this.sp + (this.sp * (enemy.Magic / 30))) / (Math.Sqrt((player.Defense * 8) + player.Armor));
+                    Calced = (this.sp + (this.sp * (enemy.CurrentMagic / 30))) / (Math.Sqrt((player.CurrentDefense * 8) + player.Armor));
                     break;
             }
 

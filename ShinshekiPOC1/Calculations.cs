@@ -10,7 +10,13 @@ namespace ShinshekiPOC1
     {
         public static double FightCommand(Player player,Enemy enemy)
         {
-            double Calced = ((Math.Sqrt(player.WP) * (Math.Sqrt(player.Strength)) / (Math.Sqrt((enemy.Defense * 8) + enemy.Armor))));
+            double Calced = ((Math.Sqrt(player.WP) * (Math.Sqrt(player.CurrentStrength)) / (Math.Sqrt((enemy.CurrentDefense * 8) + enemy.Armor))));
+            return Calced;
+        }
+
+        public static double EnemyFightCommand(Player player, Enemy enemy)
+        {
+            double Calced = ((Math.Sqrt(enemy.CurrentStrength)) / (Math.Sqrt((player.CurrentDefense * 8) + player.Armor)));
             return Calced;
         }
 

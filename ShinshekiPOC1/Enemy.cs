@@ -29,13 +29,14 @@ namespace ShinshekiPOC1
                 Random rand = new Random();
                 this.TempDR = 0; // Reset any SOT buffs (mainly TempDR in this build)
                 bool CanAct = base.CheckStatus(buffturns);
+                int decision;
                 if (CanAct == false)
                 {
                     switch (CurrentStatus)
                     {
                         // Do certain actions depending on the enemy's current status.
                         case StatusCond.Confusion:
-                            int decision = rand.Next(0, 3);
+                            decision = rand.Next(0, 3);
                             switch (decision)
                             {
                                 case 0:
@@ -46,6 +47,19 @@ namespace ShinshekiPOC1
                                     Console.WriteLine("Too confused to act!");
                                     break;
                             }
+                            break;
+                        case StatusCond.Enrage:
+                            Console.WriteLine("It fiercly attacked!");
+                            double calced = Calculations.EnemyFightCommand(player, this) * 1.5;
+                            player.TakeDamage((int)calced);
+                            break;
+                        case StatusCond.Stun:
+                            Console.WriteLine("Stats halved...");
+                            this.CurrentAgility = this.Agility / 2;
+                            this.CurrentDefense = this.Defense / 2;
+                            this.CurrentLuck = this.Luck / 2;
+                            this.CurrentMagic = this.Magic / 2;
+                            this.CurrentStrength = this.Strength / 2;
                             break;
                     }
                 }

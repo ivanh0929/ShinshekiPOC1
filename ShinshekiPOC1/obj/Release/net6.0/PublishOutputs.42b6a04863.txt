@@ -1,0 +1,5 @@
+C:\Users\CarbonKirby234\Documents\GitHub\shinshekipoc1\ShinshekiPOC1\ShinshekiPOC1\bin\Release\net6.0\publish\ShinshekiPOC1.exe
+C:\Users\CarbonKirby234\Documents\GitHub\shinshekipoc1\ShinshekiPOC1\ShinshekiPOC1\bin\Release\net6.0\publish\ShinshekiPOC1.dll
+C:\Users\CarbonKirby234\Documents\GitHub\shinshekipoc1\ShinshekiPOC1\ShinshekiPOC1\bin\Release\net6.0\publish\ShinshekiPOC1.deps.json
+C:\Users\CarbonKirby234\Documents\GitHub\shinshekipoc1\ShinshekiPOC1\ShinshekiPOC1\bin\Release\net6.0\publish\ShinshekiPOC1.runtimeconfig.json
+C:\Users\CarbonKirby234\Documents\GitHub\shinshekipoc1\ShinshekiPOC1\ShinshekiPOC1\bin\Release\net6.0\publish\ShinshekiPOC1.pdb
